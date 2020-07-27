@@ -8,7 +8,10 @@ The purpose of this project is to expand a dataset of the entire stock market ov
 coding becomes more efficient with fewer steps, less memory, or improved logic.
 
 ## Results
-
+![VBA Challenge 2017](https://github.com/rjchiang/stock-analysis/blob/master/VBA_Challenge_2017.png)
+![VBA Challenge 2018](https://github.com/rjchiang/stock-analysis/blob/master/VBA_Challenge_2018.png)
+![Original 2017] (https://github.com/rjchiang/stock-analysis/blob/master/2017%20Green.png)
+![Original 2018] (https://github.com/rjchiang/stock-analysis/blob/master/2018%20Green.png)
 From the Images shown above, it appears the stock performance has decreased from years 2017 to 2018 due to the
 increasing number of red highlights. Also, the execution times of the refactored script takes less than that of 
 the original script, taking approximately 0.13 sec for the former compared to 0.80 sec for the latter.
